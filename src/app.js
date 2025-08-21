@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './App.css';
+import './app.css';
 function App() {
 const [targetReady, setTargetReady] = useState(false);
 const [viewName, setViewName] = useState('home');
