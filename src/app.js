@@ -161,11 +161,6 @@ className="cta-button"
 onClick={() => handleNavClick('products')}
 >
 Continue Shopping
-4. Click "Commit new file"
-File 5: src/App.css
-1. Click "Add file" → "Create new file"
-2. Type: src/App.css
-3. Paste:
 </button>
 </div>
 </div>
